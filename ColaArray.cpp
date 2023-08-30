@@ -19,6 +19,8 @@ ColaArray crearColaArray(int t)
 
 //hola
 
+//nuevo comentario
+
 void destruir(ColaArray &c)
 {
 	delete [] c->elementos;
