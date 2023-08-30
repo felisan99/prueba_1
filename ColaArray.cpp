@@ -17,7 +17,7 @@ ColaArray crearColaArray(int t)
 	return c;
 }
 
-
+//hola
 
 void destruir(ColaArray &c)
 {
